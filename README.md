@@ -1,0 +1,2 @@
+# dofileTranslator
+解决stata的Do文档中文乱码问题，扫描一个文件夹下所有Do文档并一件生成stata转码命令
